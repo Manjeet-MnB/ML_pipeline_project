@@ -1,0 +1,4 @@
+[ 2023-05-31 12:29:40,133 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-31 12:29:40,135 ] 186 werkzeug - INFO -  * Debugger PIN: 127-993-829
+[ 2023-05-31 12:29:53,875 ] 186 werkzeug - INFO - 127.0.0.1 - - [31/May/2023 12:29:53] "GET / HTTP/1.1" 200 -
+[ 2023-05-31 12:30:01,964 ] 186 werkzeug - INFO -  * Detected change in 'c:\\users\\manjeet\\downloads\\ml\\ml_pipeline\\setup.py', reloading
